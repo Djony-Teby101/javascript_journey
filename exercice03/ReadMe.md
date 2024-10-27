@@ -1,0 +1,1 @@
+# Progame permet simplement de calculer l'aire d'un carre.
